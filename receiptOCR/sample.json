@@ -1,0 +1,41 @@
+{
+    "meta" : {
+        "userID" : "abcdef123"
+    },
+    "result" : [{
+        "text" : "38293843",
+        "location" : {
+            "x" : 200,
+            "y" : 300
+        },
+        "size" : {
+            "width" : 200,
+            "height" : 100
+        },
+        "type" : "number"
+    },
+    {
+        "text" : "sample text2",
+        "location" : {
+            "x" : 200,
+            "y" : 300
+        },
+        "size" : {
+            "width" : 200,
+            "height" : 100
+        },
+        "type" : "text"
+    },
+    {
+        "text" : "sample text3",
+        "location" : {
+            "x" : 100,
+            "y" : 600
+        },
+        "size" : {
+            "width" : 500,
+            "height" : 100
+        },
+        "type" : "text"
+    }]
+}
