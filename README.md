@@ -27,6 +27,8 @@
 ![ocr_1](https://github.com/beenyu0403/ReceipeOCR_iOS/assets/118662365/30d08cdf-acd6-46b1-807d-dbce90161c0b)
 ![ocr_2](https://github.com/beenyu0403/ReceipeOCR_iOS/assets/118662365/1428959f-caa8-4441-a3c7-45b3bb803d63)
 
+## 아쉬운 점
+- 대체적으로 분류가 잘 되긴 했지만 안 되는 품목들도 있어서, 품목들에 관한 모델을 학습시켜 사용했다면 분석 결과의 정확도를 더 높일 수 있지 않을까 아쉬움이 있었다.
 
 ## Platform
 iOS
