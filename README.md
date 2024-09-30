@@ -5,7 +5,7 @@
 
 ## 소개
 
-![스크린샷 2024-03-12 오후 11 09 01](https://github.com/beenyu0403/IOS_Arish/assets/118662365/365001ed-ec51-4906-b699-9182bfbe73df)
+![서비스 소개1](https://github.com/user-attachments/assets/71427eb8-71a7-4700-b23b-b51159d13722)
 
 - OCR(광학 문자 인식) 기술을 활용하여 영수증 사진에서 인식된 텍스트를 구조화하고, 카테고리 별로 관리해 사용자의 소비내역을 정리 및 시각화 해주는 iOS APP
   
@@ -13,9 +13,9 @@
 - 영수증 이미지에서 OCR 기술로 텍스트를 자동으로 인식하여 구조화하고, 소비내역을 추출.
 - 소비내역을 카테고리별로 구분하고, 시각화하여 사용자의 소비 습관을 파악할 수 있도록 도움.
 
-![스크린샷 2024-03-12 오후 11 09 35](https://github.com/beenyu0403/IOS_Arish/assets/118662365/f04c852b-bec3-42bc-bfef-dbab8a617cb7)
-![스크린샷 2024-03-12 오후 11 10 26](https://github.com/beenyu0403/IOS_Arish/assets/118662365/5aac22a0-dee2-46f1-80af-50716f7147a9)
-![스크린샷 2024-03-12 오후 11 10 52](https://github.com/beenyu0403/IOS_Arish/assets/118662365/49cc416c-282b-4706-9236-4e68bd3fd8b2)
+![서비스 아키텍쳐2](https://github.com/user-attachments/assets/9a74194a-1b3a-4e2a-9d90-7d419ea86cb8)
+![분류항목3](https://github.com/user-attachments/assets/2628f2a0-40e1-443f-a108-7d52c113e671)
+![기술 활용방안 4](https://github.com/user-attachments/assets/a41da26b-b9f8-45fd-a7f2-1246b71a94f8)
 
 ## 개발기간
 - 기획: 2023.09
